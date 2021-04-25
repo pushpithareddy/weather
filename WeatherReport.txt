@@ -1,0 +1,5 @@
+------------Hyderbad-------------
+Temperature: 305.4
+Humidity: 17
+Pressure: 1010
+WeatherReport: few clouds
